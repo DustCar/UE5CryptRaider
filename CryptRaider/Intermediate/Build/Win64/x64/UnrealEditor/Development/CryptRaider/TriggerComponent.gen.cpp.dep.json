@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dustc\\onedrive\\documents\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\triggercomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dustc\\onedrive\\documents\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\dustc\\onedrive\\documents\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\users\\dustc\\onedrive\\documents\\unrealprojects\\cryptraider\\source\\cryptraider\\triggercomponent.h",
+            "c:\\users\\dustc\\onedrive\\documents\\unrealprojects\\cryptraider\\source\\cryptraider\\mover.h",
+            "c:\\users\\dustc\\onedrive\\documents\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\mover.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\users\\dustc\\onedrive\\documents\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\triggercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
